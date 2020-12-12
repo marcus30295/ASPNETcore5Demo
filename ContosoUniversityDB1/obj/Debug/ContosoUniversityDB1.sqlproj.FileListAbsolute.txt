@@ -3,3 +3,9 @@ C:\.Net5\solution1\ContosoUniversityDB1\bin\Debug\ContosoUniversityDB1.dll
 C:\.Net5\solution1\ContosoUniversityDB1\bin\Debug\ContosoUniversityDB1.pdb
 C:\.Net5\solution1\ContosoUniversityDB1\obj\Debug\ContosoUniversityDB1.dll
 C:\.Net5\solution1\ContosoUniversityDB1\obj\Debug\ContosoUniversityDB1.pdb
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\bin\Debug\ContosoUniversityDB1.dacpac
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\bin\Debug\ContosoUniversityDB1.dll
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\bin\Debug\ContosoUniversityDB1.pdb
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\obj\Debug\ContosoUniversityDB1.sqlprojAssemblyReference.cache
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\obj\Debug\ContosoUniversityDB1.dll
+C:\.Net5\ASPNETcore5Demo\ContosoUniversityDB1\obj\Debug\ContosoUniversityDB1.pdb

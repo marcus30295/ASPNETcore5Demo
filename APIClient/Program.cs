@@ -9,7 +9,7 @@ namespace APIClient
         static async Task Main(string[] args)
         {
 
-            var httpclient = new swaggerClient("https://localhost:5001/",new HttpClient());
+            var httpclient = new swaggerClient("https://localhost:44324/",new HttpClient());
 
             var AllCourse = await httpclient.CourseAllAsync();
 
