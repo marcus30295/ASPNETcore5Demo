@@ -1,0 +1,15 @@
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.csprojAssemblyReference.cache
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.AssemblyInfoInputs.cache
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.AssemblyInfo.cs
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.csproj.CoreCompileInputs.cache
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.exe
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.deps.json
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.runtimeconfig.json
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.runtimeconfig.dev.json
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.dll
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\APIClient.pdb
+C:\.Net5\solution1\APIClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.csproj.CopyComplete
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.dll
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.pdb
+C:\.Net5\solution1\APIClient\obj\Debug\netcoreapp3.1\APIClient.genruntimeconfig.cache
